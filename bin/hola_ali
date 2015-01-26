@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hola_ali'
+puts HolaAli.hi_ali(ARGV[0])
